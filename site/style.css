@@ -808,36 +808,49 @@ body {
     line-height: normal;
 }
 
-.menu_kor_fikr{
+.menu_kor_fikr {
     display: flex;
     justify-content: center;
     padding-top: 11px;
 }
 
-.aa{
+.aa {
     margin-left: 10px;
 }
 
-.b{
+.b {
     margin-left: 10px;
 }
 
-.menuu{
+.menuu {
     margin-top: 2px;
 }
 
-.korzinaa{
+.korzinaa {
     margin-left: 45.3px;
 }
 
-.fikrr{
+.fikrr {
     margin-left: 55px;
 }
 
 
+.link2 {
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    color: #000;
+    text-decoration: none;
+}
 
-
-
+.linkks{
+    margin-left: 25px;
+    margin-top: 5px;
+    display: flex;
+    gap: 30px;
+    display: none;
+}
 
 
 
@@ -848,7 +861,7 @@ body {
 
     .big_bg {
         width: 382px;
-        height: 2330px;
+        height: 2390px;
         background: #F2F2F2;
         margin-left: 50px;
     }
@@ -1149,11 +1162,15 @@ body {
         margin-bottom: 31px;
     }
 
-    .res_line{
+    .res_line {
         display: block;
     }
 
-    .white_bg{
+    .white_bg {
+        display: block;
+    }
+
+    .linkks{
         display: block;
     }
 

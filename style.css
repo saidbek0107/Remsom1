@@ -235,6 +235,8 @@ body {
     margin-top: 32px;
 }
 
+
+
 .won_title {
     font-size: 24px;
     font-style: normal;
@@ -793,30 +795,42 @@ body {
     line-height: normal;
 }
 
-.menu_kor_fikr{
+.menu_kor_fikr {
     display: flex;
     justify-content: center;
     padding-top: 11px;
 }
 
-.a{
+.a {
     margin-left: 10px;
 }
 
-.b{
+.b {
     margin-left: 10px;
 }
 
-.menuu{
+.menuu {
     margin-top: 2px;
 }
 
-.korzinaa{
+.korzinaa {
     margin-left: 45.3px;
 }
 
-.fikrr{
+.fikrr {
     margin-left: 55px;
+}
+
+.linkk {
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    color: #000;
+    text-decoration: none;
+    display: none;
+    margin-left: 25px;
+    margin-top: 10px;
 }
 
 
@@ -834,7 +848,8 @@ body {
         background: #F2F2F2;
         margin-left: 50px;
     }
-    .instagram{
+
+    .instagram {
         margin-left: 30px;
     }
 
@@ -879,7 +894,7 @@ body {
         justify-content: center;
     }
 
-    .mode{
+    .mode {
         margin-left: 1.6rem;
     }
 
@@ -959,5 +974,9 @@ body {
         display: block;
     }
 
-   
+    .linkk {
+        display: block;
+    }
+
+
 }
